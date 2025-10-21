@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Q.6 - Prova 21.10/1.0.0": {
+        "runtime": {
+          "Q.6 - Prova 21.10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q.6 - Prova 21.10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

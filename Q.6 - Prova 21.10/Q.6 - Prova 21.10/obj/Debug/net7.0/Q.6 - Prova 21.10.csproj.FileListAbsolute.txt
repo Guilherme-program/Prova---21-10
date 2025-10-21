@@ -1,0 +1,15 @@
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\bin\Debug\net7.0\Q.6 - Prova 21.10.exe
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\bin\Debug\net7.0\Q.6 - Prova 21.10.deps.json
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\bin\Debug\net7.0\Q.6 - Prova 21.10.runtimeconfig.json
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\bin\Debug\net7.0\Q.6 - Prova 21.10.dll
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\bin\Debug\net7.0\Q.6 - Prova 21.10.pdb
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\Q.6 - Prova 21.10.csproj.AssemblyReference.cache
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\Q.6 - Prova 21.10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\Q.6 - Prova 21.10.AssemblyInfoInputs.cache
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\Q.6 - Prova 21.10.AssemblyInfo.cs
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\Q.6 - Prova 21.10.csproj.CoreCompileInputs.cache
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\Q.6 - Prova 21.10.dll
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\refint\Q.6 - Prova 21.10.dll
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\Q.6 - Prova 21.10.pdb
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\Q.6 - Prova 21.10.genruntimeconfig.cache
+D:\Guilherme Medeiros\Prova - 21.10\Q.6 - Prova 21.10\Q.6 - Prova 21.10\obj\Debug\net7.0\ref\Q.6 - Prova 21.10.dll
